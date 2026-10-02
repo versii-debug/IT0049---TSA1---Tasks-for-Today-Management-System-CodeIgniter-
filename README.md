@@ -14,5 +14,4 @@ Built with CodeIgniter 4.
 1. Put the `TSA1` folder in `C:\xampp\htdocs`.
 2. Start Apache and MySQL.
 3. Import `tasks_db.sql` in phpMyAdmin.
-4. Then go to the config file(php.ini) under Apache and change this line from `;extension=gd` to `extension=gd`
 4. Open `http://localhost/TSA1/public/`.
